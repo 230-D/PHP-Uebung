@@ -66,8 +66,7 @@ foreach ($Fahrray as $key => $value) {
 $i=0;
 
 do {
-    echo $i++;
-    echo '<br>';
+    echo $i++ . '<br>';
 } while ($i < 20);
 
 
